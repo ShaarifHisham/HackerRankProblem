@@ -1,0 +1,12 @@
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\bin\Debug\netcoreapp3.1\HackerRankProblems.exe
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\bin\Debug\netcoreapp3.1\HackerRankProblems.deps.json
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\bin\Debug\netcoreapp3.1\HackerRankProblems.runtimeconfig.json
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\bin\Debug\netcoreapp3.1\HackerRankProblems.runtimeconfig.dev.json
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\bin\Debug\netcoreapp3.1\HackerRankProblems.dll
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\bin\Debug\netcoreapp3.1\HackerRankProblems.pdb
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\obj\Debug\netcoreapp3.1\HackerRankProblems.AssemblyInfoInputs.cache
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\obj\Debug\netcoreapp3.1\HackerRankProblems.AssemblyInfo.cs
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\obj\Debug\netcoreapp3.1\HackerRankProblems.csproj.CoreCompileInputs.cache
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\obj\Debug\netcoreapp3.1\HackerRankProblems.dll
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\obj\Debug\netcoreapp3.1\HackerRankProblems.pdb
+C:\Users\brimm\source\repos\HackerRankProblems\HackerRankProblems\HackerRankProblems\obj\Debug\netcoreapp3.1\HackerRankProblems.genruntimeconfig.cache
